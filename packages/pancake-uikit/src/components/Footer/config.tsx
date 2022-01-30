@@ -26,7 +26,7 @@ export const footerLinks: FooterLinkType[] = [
       },
       {
         label: "Swap Crypto Wallet",
-        href: "https://pancakeswap.creator-spring.com/",
+        href: "https://play.google.com/store/apps/details?id=com.swapcrypto",
         isHighlighted: true,
       },
     ],
@@ -163,9 +163,9 @@ export const socials = [
     href: "https://freedomshare.net/",
   },
   {
-    label: "Discord",
+    label: "Android Wallet",
     icon: "Discord",
-    href: "https://discord.gg/pancakeswap",
+    href: "https://play.google.com/store/apps/details?id=com.swapcrypto",
   },
 ];
 
