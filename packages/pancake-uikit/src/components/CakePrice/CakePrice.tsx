@@ -7,7 +7,7 @@ import { Colors } from "../../theme";
 
 export interface Props {
   color?: keyof Colors;
-  swapcryptoPriceUsd?: number;
+  cakePriceUsd?: number;
 }
 
 const PriceLink = styled.a`
@@ -23,7 +23,7 @@ const PriceLink = styled.a`
   }
 `;
 
-const SwapcryptoPrice: React.FC<Props> = ({ swapcryptoPriceUsd, color = "textSubtle" }) => {
+const cakePrice: React.FC<Props> = ({ cakePriceUsd, color = "textSubtle" }) => {
   return swapcryptoPriceUsd ? (
     <PriceLink
       href="https://thirsty-hugle-3daa6e.netlify.app/swap?outputCurrency=0x429199e68283bb1e193d38ba8e85dfbca4a973c9"
