@@ -59,7 +59,7 @@ export const links: MenuItemsType[] = [
       },
     ],
   },
-  {
+<!  {
     label: "Win",
     href: "/",
     icon: "Trophy",
@@ -78,7 +78,8 @@ export const links: MenuItemsType[] = [
         href: "/",
       },
     ],
-  },
+  }, 
+  >
   {
     label: "",
     href: "/",
@@ -149,7 +150,7 @@ export const userMenulinks: DropdownMenuItems[] = [
   },
   {
     type: DropdownMenuItemType.EXTERNAL_LINK,
-    href: "https://pancakeswap.finance",
+    href: "https://thirsty-hugle-3daa6e.netlify.app/",
     label: "Link",
   },
   {
