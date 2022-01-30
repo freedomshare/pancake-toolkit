@@ -1,17 +1,25 @@
 {
-  "name": "PancakeSwap Extended",
+  "name": "Swap Crypto Extended",
   "timestamp": "2022-01-26T18:35:11.847Z",
   "version": {
     "major": 2,
     "minor": 16,
     "patch": 65
   },
-  "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png",
+  "logoURI": "https://github.com/freedomshare/pancake-frontend/tree/develop/public/images/tokens/b797b4a2baa146a9940af0bc5d520a22.png",
   "keywords": [
-    "pancakeswap",
+    "swap crypto",
     "extended"
   ],
   "tokens": [
+    {
+      "name": "Swap Crypto Token",
+      "symbol": "SCW",
+      "address": "0x429199e68283bB1E193D38ba8e85DFbCA4a973c9",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://github.com/freedomshare/pancake-frontend/tree/develop/public/images/tokens/b797b4a2baa146a9940af0bc5d520a22.png"
+    },
     {
       "name": "PancakeSwap Token",
       "symbol": "CAKE",
