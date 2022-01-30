@@ -1,5 +1,5 @@
 {
-  "name": "PancakeSwap Top 100",
+  "name": "Swap Crypto Top 100",
   "timestamp": "2022-01-26T18:35:22.266Z",
   "version": {
     "major": 2,
@@ -8,7 +8,7 @@
   },
   "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png",
   "keywords": [
-    "pancakeswap",
+    "swapcrypto",
     "top 100"
   ],
   "tokens": [
