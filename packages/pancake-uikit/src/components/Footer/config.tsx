@@ -7,25 +7,25 @@ export const footerLinks: FooterLinkType[] = [
     items: [
       {
         label: "Contact",
-        href: "https://docs.pancakeswap.finance/contact-us",
+        href: "https://thirsty-hugle-3daa6e.netlify.app//contact-us",
       },
       {
         label: "Blog",
-        href: "https://pancakeswap.medium.com/",
+        href: "https://buddybio.com/",
       },
       {
         label: "Community",
-        href: "https://docs.pancakeswap.finance/contact-us/telegram",
+        href: "https://thirsty-hugle-3daa6e.netlify.app/contact-us/telegram",
       },
       {
-        label: "CAKE",
-        href: "https://docs.pancakeswap.finance/tokenomics/cake",
+        label: "Swap Crypto",
+        href: "https://thirsty-hugle-3daa6e.netlify.app/tokenomics/cake",
       },
       {
         label: "—",
       },
       {
-        label: "Online Store",
+        label: "Swap Crypto Wallet",
         href: "https://pancakeswap.creator-spring.com/",
         isHighlighted: true,
       },
@@ -35,16 +35,16 @@ export const footerLinks: FooterLinkType[] = [
     label: "Help",
     items: [
       {
-        label: "Customer",
-        href: "Support https://docs.pancakeswap.finance/contact-us/customer-support",
+        label: "Customer Support",
+        href: "https://t.me/swapcryptosupport",
       },
       {
         label: "Troubleshooting",
-        href: "https://docs.pancakeswap.finance/help/troubleshooting",
+        href: "https://thirsty-hugle-3daa6e.netlify.app/help/troubleshooting",
       },
       {
         label: "Guides",
-        href: "https://docs.pancakeswap.finance/get-started",
+        href: "https://thirsty-hugle-3daa6e.netlify.app/get-started",
       },
     ],
   },
@@ -52,24 +52,24 @@ export const footerLinks: FooterLinkType[] = [
     label: "Developers",
     items: [
       {
-        label: "Github",
-        href: "https://github.com/pancakeswap",
+        label: "Buddybio Social Media",
+        href: "https://buddybio.com/",
       },
       {
         label: "Documentation",
-        href: "https://docs.pancakeswap.finance",
+        href: "https://thirsty-hugle-3daa6e.netlify.app/doc",
       },
       {
         label: "Bug Bounty",
-        href: "https://app.gitbook.com/@pancakeswap-1/s/pancakeswap/code/bug-bounty",
+        href: "https://t.me/swapcryptosupport",
       },
       {
         label: "Audits",
-        href: "https://docs.pancakeswap.finance/help/faq#is-pancakeswap-safe-has-pancakeswap-been-audited",
+        href: "https://thirsty-hugle-3daa6e.netlify.app/doc",
       },
       {
         label: "Careers",
-        href: "https://docs.pancakeswap.finance/hiring/become-a-chef",
+        href: "https://thirsty-hugle-3daa6e.netlify.app/hiring/become-a-chef",
       },
     ],
   },
@@ -79,7 +79,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "Twitter",
-    href: "https://twitter.com/pancakeswap",
+    href: "https://twitter.com/swapcrypto2021",
   },
   {
     label: "Telegram",
@@ -87,63 +87,63 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/pancakeswap",
+        href: "https://t.me/swapcrytonow",
       },
       {
         label: "Bahasa Indonesia",
-        href: "https://t.me/PancakeSwapIndonesia",
+        href: "https://t.me/swapcrytonow",
       },
       {
         label: "中文",
-        href: "https://t.me/PancakeSwap_CN",
+        href: "https://t.me/swapcrytonow",
       },
       {
         label: "Tiếng Việt",
-        href: "https://t.me/PancakeSwapVN",
+        href: "https://t.me/swapcrytonow",
       },
       {
         label: "Italiano",
-        href: "https://t.me/pancakeswap_ita",
+        href: "https://t.me/swapcrytonow",
       },
       {
         label: "русский",
-        href: "https://t.me/pancakeswap_ru",
+        href: "https://t.me/swapcrytonow",
       },
       {
         label: "Türkiye",
-        href: "https://t.me/pancakeswapturkiye",
+        href: "https://t.me/swapcrytonow",
       },
       {
         label: "Português",
-        href: "https://t.me/PancakeSwapPortuguese",
+        href: "https://t.me/swapcrytonow",
       },
       {
         label: "Español",
-        href: "https://t.me/PancakeswapEs",
+        href: "https://t.me/swapcrytonow",
       },
       {
         label: "日本語",
-        href: "https://t.me/pancakeswapjp",
+        href: "https://t.me/swapcrytonow",
       },
       {
         label: "Français",
-        href: "https://t.me/pancakeswapfr",
+        href: "https://t.me/swapcrytonow",
       },
       {
         label: "Datch",
-        href: "https://t.me/PancakeSwap_DE",
+        href: "https://t.me/swapcrytonow",
       },
       {
         label: "Filipino",
-        href: "https://t.me/Pancakeswap_Ph",
+        href: "https://t.me/swapcrytonow",
       },
       {
         label: "ქართული ენა",
-        href: "https://t.me/PancakeSwapGeorgia",
+        href: "https://t.me/swapcrytonow",
       },
       {
         label: "Announcements",
-        href: "https://t.me/PancakeSwapAnn",
+        href: "https://t.me/swapcrytonow",
       },
     ],
   },
@@ -155,12 +155,12 @@ export const socials = [
   {
     label: "Instagram",
     icon: "Instagram",
-    href: "https://instagram.com/pancakeswap_official",
+    href: "https://instagram.com/swapcrypto.ca",
   },
   {
-    label: "Github",
+    label: "FreedomShare Live",
     icon: "Github",
-    href: "https://github.com/pancakeswap/",
+    href: "https://freedomshare.net/",
   },
   {
     label: "Discord",
