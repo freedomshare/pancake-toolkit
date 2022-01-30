@@ -1,5 +1,13 @@
 [
   {
+      "name": "Swap Crypto Token",
+      "symbol": "SCW",
+      "address": "0x429199e68283bB1E193D38ba8e85DFbCA4a973c9",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://github.com/freedomshare/pancake-frontend/tree/develop/public/images/tokens/b797b4a2baa146a9940af0bc5d520a22.png"
+    },
+  {
     "name": "WBNB Token",
     "symbol": "WBNB",
     "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
