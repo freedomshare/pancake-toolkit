@@ -1,15 +1,15 @@
 {
-  "https://tokens.pancakeswap.finance/pancakeswap-default.json": {
-    "name": "PancakeSwap Default",
+  "https://thirsty-hugle-3daa6e.netlify.app/pancakeswap-default.json": {
+    "name": "Swap Crypto Default",
     "homepage": "https://pancakeswap.finance"
   },
-  "https://tokens.pancakeswap.finance/pancakeswap-extended.json": {
-    "name": "PancakeSwap Extended",
+  "https://thirsty-hugle-3daa6e.netlify.app/pancakeswap-extended.json": {
+    "name": "Swap Crypto Extended",
     "homepage": "https://pancakeswap.finance"
     
   },
-  "https://tokens.pancakeswap.finance/pancakeswap-top-100.json": {
-    "name": "PancakeSwap Top 100",
+  "https://thirsty-hugle-3daa6e.netlify.app/pancakeswap-top-100.json": {
+    "name": "Swap Crypto Top 100",
     "homepage": "https://pancakeswap.finance"
     
   },
